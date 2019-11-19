@@ -128,8 +128,8 @@
             <h2 class="section-heading text-uppercase">기술 설명</h2>
             <h4 class="section-subheading text-muted">
                 Javascript, Jquery, HTML, CSS,  Bootstrap<br>
-                MySQL, JAVA, JSP<br>
-                웹 경력을 시작해 궁극적으로는 자바스크립트 엔지니어가 되고 싶습니다.<br><br>
+                MySQL, JAVA, JSP, Git, Spring Boot<br>
+                웹 경력을 시작해 궁극적으로는 풀스택 개발자가 되고 싶습니다.<br><br>
             </h4>
           </div>
         </div>
