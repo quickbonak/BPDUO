@@ -35,7 +35,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>이진&낙원 포트폴리오</title>
+<title>이진&낙원 포트폴리오 대문</title>
 
 <!-- Bootstrap core CSS -->
 <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
