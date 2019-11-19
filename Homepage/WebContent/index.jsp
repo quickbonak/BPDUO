@@ -2,7 +2,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%
-	String showText = "이력서 보기";
+	String showText = "포트폴리오 보기";
 	if(session.getAttribute("thePage")!=null){
 		
 		String thePage	= session.getAttribute("thePage").toString();
